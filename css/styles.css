@@ -1,0 +1,51 @@
+*{box-sizing: border-box;}
+
+body{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aqua;
+}
+
+nav{
+    background-color: beige;
+}
+
+section{
+    background-color: cadetblue;;
+}
+
+article{
+    background-color: cornflowerblue;
+}
+
+aside{
+    background-color: turquoise;
+}
+
+footer{
+    background-color: steelblue;
+}
+
+.altura_header{
+    height: 10vh;
+ }
+
+.altura_nav{
+    height: 10vh;
+ }
+
+ .altura_section{
+    height: 70vh;
+ }
+
+.altura_aside{
+    height: 70vh;
+}
+
+.altura_footer{
+    height:10vh;
+}
